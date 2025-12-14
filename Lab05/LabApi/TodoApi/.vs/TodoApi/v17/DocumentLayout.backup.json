@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Admin\\Desktop\\Advanced Web\\LabApi\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFA703A-4BEF-4015-8D51-E4A65508707C}|TodoApi.csproj|d:\\users\\admin\\desktop\\advanced web\\labapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFA703A-4BEF-4015-8D51-E4A65508707C}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFA703A-4BEF-4015-8D51-E4A65508707C}|TodoApi.csproj|d:\\users\\admin\\desktop\\advanced web\\labapi\\todoapi\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFA703A-4BEF-4015-8D51-E4A65508707C}|TodoApi.csproj|solutionrelative:models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFA703A-4BEF-4015-8D51-E4A65508707C}|TodoApi.csproj|d:\\users\\admin\\desktop\\advanced web\\labapi\\todoapi\\models\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFA703A-4BEF-4015-8D51-E4A65508707C}|TodoApi.csproj|solutionrelative:models\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFA703A-4BEF-4015-8D51-E4A65508707C}|TodoApi.csproj|d:\\users\\admin\\desktop\\advanced web\\labapi\\todoapi\\models\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFA703A-4BEF-4015-8D51-E4A65508707C}|TodoApi.csproj|solutionrelative:models\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFA703A-4BEF-4015-8D51-E4A65508707C}|TodoApi.csproj|d:\\users\\admin\\desktop\\advanced web\\labapi\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DFA703A-4BEF-4015-8D51-E4A65508707C}|TodoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFA703A-4BEF-4015-8D51-E4A65508707C}|TodoApi.csproj|d:\\users\\admin\\desktop\\advanced web\\labapi\\todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DFA703A-4BEF-4015-8D51-E4A65508707C}|TodoApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoItemDTO.cs",
+              "DocumentMoniker": "D:\\Users\\Admin\\Desktop\\Advanced Web\\LabApi\\TodoApi\\Models\\TodoItemDTO.cs",
+              "RelativeDocumentMoniker": "Models\\TodoItemDTO.cs",
+              "ToolTip": "D:\\Users\\Admin\\Desktop\\Advanced Web\\LabApi\\TodoApi\\Models\\TodoItemDTO.cs",
+              "RelativeToolTip": "Models\\TodoItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:28:03.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "D:\\Users\\Admin\\Desktop\\Advanced Web\\LabApi\\TodoApi\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "Models\\Todo.cs",
+              "ToolTip": "D:\\Users\\Admin\\Desktop\\Advanced Web\\LabApi\\TodoApi\\Models\\Todo.cs",
+              "RelativeToolTip": "Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:19:08.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoDb.cs",
+              "DocumentMoniker": "D:\\Users\\Admin\\Desktop\\Advanced Web\\LabApi\\TodoApi\\Models\\TodoDb.cs",
+              "RelativeDocumentMoniker": "Models\\TodoDb.cs",
+              "ToolTip": "D:\\Users\\Admin\\Desktop\\Advanced Web\\LabApi\\TodoApi\\Models\\TodoDb.cs",
+              "RelativeToolTip": "Models\\TodoDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:05:52.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Users\\Admin\\Desktop\\Advanced Web\\LabApi\\TodoApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Users\\Admin\\Desktop\\Advanced Web\\LabApi\\TodoApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-14T14:59:33.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Admin\\Desktop\\Advanced Web\\LabApi\\TodoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Users\\Admin\\Desktop\\Advanced Web\\LabApi\\TodoApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-14T14:59:28.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Admin\\Desktop\\Advanced Web\\LabApi\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Users\\Admin\\Desktop\\Advanced Web\\LabApi\\TodoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:55:34.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
